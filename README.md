@@ -1,5 +1,5 @@
 ### Hiii I'm Victor Laguna, a student of Development Systems!
-- 🔭 I’m currently working on self porjects!
+- 🔭 I’m currently working on self projects!
 
 <div align="center">
   <a href="https://github.com/VictorLagunaR">
