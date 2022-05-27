@@ -1,5 +1,6 @@
-### Hiii I'm Victor Laguna, a student of Development Systems!
+## Hiii I'm Victor Laguna, a student of Development Systems!
 - 🔭 I’m currently working on self projects!
+
 
 <div align="center">
   <a href="https://github.com/VictorLagunaR">
@@ -17,10 +18,12 @@
 
 </div>
 
-  #
-  <div> 
-   <a href="https://instagram.com/laguna.png" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+##
+  
+<div> 
+  <a href="https://instagram.com/laguna.png" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:laguna.vitorc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <div> 
+   <a href="https://www.linkedin.com/in/victorlagunarodrigues/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<div> 
     
   ![Snake animation](https://github.com/VictorLagunaR/VictorlagunaR/blob/output/github-contribution-grid-snake.svg)
