@@ -1,6 +1,6 @@
 ## Hiii I'm Victor Laguna, a student of Development Systems!
 - 🔭 I’m currently working on self projects!
-- if you want to see some of my projects, you can visite my <a href="https://victorlagunar.github.io/Portifolio/" target="_blank">portfolio</a>
+- if you want to see some of my projects, you can visite my <a href="https://victorlagunar.github.io/Portifolio/">portfolio</a>
 
 <div align="center">
   <a href="https://github.com/VictorLagunaR">
