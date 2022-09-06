@@ -1,4 +1,4 @@
-## Hiii I'm Victor Laguna, a student of Development Systems!
+## Hiii I'm Victor Laguna, a student of analytics and development of systems!
 - 🔭 I’m currently working on self projects!
 - if you want to see some of my projects, you can visite my <a href="https://victorlagunar.github.io/Portifolio/">portfolio</a>
 
