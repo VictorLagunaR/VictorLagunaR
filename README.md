@@ -1,4 +1,4 @@
-## Hiii I'm Victor Laguna, a student of analytics and development of systems!
+## Hiii I'm Victor Laguna, a full stack developer!
 - 🔭 I’m currently working on self projects!
 - if you want to see some of my projects, you can visite my <a href="https://victorlagunar.github.io/Portifolio/">portfolio</a>
 
@@ -9,6 +9,7 @@
 </div>
 
 <div style="display: inline_block"><br>
+  <img align="center" alt="Victor-MySQL" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg">
   <img align="center" alt="Victor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Victor-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="Victor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
