@@ -1,5 +1,5 @@
 ## Hiii I'm Victor Laguna, a full stack developer!
-- 🔭 I’m currently working on self projects and I work as a Web Developer!
+- 🔭 I work as a Data Analyst and I'm a Developer!
 - if you want to see some of my projects, you can visite my <a href="https://victorlagunar.github.io/Portifolio/">portfolio</a>
 
 <div align="center">
